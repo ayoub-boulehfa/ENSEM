@@ -1,3 +1,9 @@
 # ENSEM
 projet TEMPS reet
-https://docs.google.com/document/d/1x8MG903_JsA192dPhIe66G5Wr984YVfG4beqT2HpfSY/edit?usp=sharing
+plateforme temps réels permettant la mesure du temps du contrôle et la manipulation des mesures prises par des capteurs de température, pression et volume à l’aide d’une carte Arduino.
+Le projet est réalisé par :
+-	Lamiae Touti
+-	Oumniya Ramdi 
+-	Ayoub Boulehfa
+-	Oussama Moudnib
+                                                                                                            Encadré par H.Medromi
